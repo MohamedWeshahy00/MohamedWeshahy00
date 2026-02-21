@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Loga00.Loga00&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedWeshahy00.MohamedWeshahy00&"  />
 </div>
 
 ###
@@ -123,20 +123,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loga00&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedWeshahy00&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loga00&theme=tokyonight" alt="profile summary"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedWeshahy00&theme=tokyonight" alt="profile summary"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Loga00&theme=tokyonight&utcOffset=2" height="180" alt="productive time"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Loga00&theme=tokyonight" height="180" alt="repos per language"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedWeshahy00&theme=tokyonight&utcOffset=2" height="180" alt="productive time"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedWeshahy00&theme=tokyonight" height="180" alt="repos per language"  />
 </div>
 
 ###
@@ -158,11 +158,11 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <img width="12" />
-  <a href="https://github.com/Loga00" target="_blank">
+  <a href="https://github.com/MohamedWeshahy00" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
   <img width="12" />
-  <a href="https://discord.com/users/loga00" target="_blank">
+  <a href="https://discord.com/users/MohamedWeshahy00" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <img width="12" />
