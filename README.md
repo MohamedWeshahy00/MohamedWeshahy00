@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center">Georgia State University Joint Program Graduate | Major in BIS, am deeply interested in Data Analysis and Business Intelligence, with a strong passion for transforming raw data into meaningful insights. Enthusiastic about creating data-driven content and continuously expanding my analytical and technical skillset.</p>
+<p align="center">Georgia State University Joint Program Graduate | Major in BIS, i am deeply interested in Data Analysis and Business Intelligence, with a strong passion for transforming raw data into meaningful insights. Enthusiastic about creating data-driven content and continuously expanding my analytical and technical skillset.</p>
 
 ###
 
