@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">Mohamed Weshahy is a passionate Data Analyst From Egypt, Working with Power BI and Tableau For over +1 Year now.<br>Feel free to ask for any freelance projects or help</h3>
+<h3 align="center">Mohamed Weshahy is a passionate Data Analyst From Egypt, Working with Power BI and Tableau For over +2 Year now.<br>Feel free to ask for any freelance projects or help</h3>
 
 ###
 
